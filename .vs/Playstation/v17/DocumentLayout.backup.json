@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\addnewgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:addnewgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\addtimeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:addtimeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\contactme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:contactme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|d:\\programming 2024\\c#\\playstation project\\playstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D440D87B-98D0-40A0-9F42-A0158FE6CDB3}|Playstation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesForm.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\GamesForm.cs",
+              "RelativeDocumentMoniker": "GamesForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\GamesForm.cs",
+              "RelativeToolTip": "GamesForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:47:38.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\GamesForm.cs",
+              "RelativeDocumentMoniker": "GamesForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\GamesForm.cs [Design]",
+              "RelativeToolTip": "GamesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:05.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewGameForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\AddNewGameForm.cs",
+              "RelativeDocumentMoniker": "AddNewGameForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\AddNewGameForm.cs [Design]",
+              "RelativeToolTip": "AddNewGameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTimeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\AddTimeForm.cs",
+              "RelativeDocumentMoniker": "AddTimeForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\AddTimeForm.cs [Design]",
+              "RelativeToolTip": "AddTimeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:00.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactMe.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\ContactMe.cs",
+              "RelativeDocumentMoniker": "ContactMe.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\ContactMe.cs [Design]",
+              "RelativeToolTip": "ContactMe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:42:58.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\PlayStation Project\\Playstation\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:42:47.288Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

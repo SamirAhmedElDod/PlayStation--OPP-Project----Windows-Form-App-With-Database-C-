@@ -1,0 +1,16 @@
+D:\Programming 2024\C#\PlayStation Project\Playstation\bin\Debug\Playstation.exe.config
+D:\Programming 2024\C#\PlayStation Project\Playstation\bin\Debug\Playstation.exe
+D:\Programming 2024\C#\PlayStation Project\Playstation\bin\Debug\Playstation.pdb
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.csproj.AssemblyReference.cache
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.Form1.resources
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.Properties.Resources.resources
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.csproj.GenerateResource.cache
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.csproj.CoreCompileInputs.cache
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.exe
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.pdb
+D:\Programming 2024\C#\PlayStation Project\Playstation\bin\Debug\Guna.UI2.dll
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstat.C8735C8E.Up2Date
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.GamesForm.resources
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.AddTimeForm.resources
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.AddNewGameForm.resources
+D:\Programming 2024\C#\PlayStation Project\Playstation\obj\Debug\Playstation.ContactMe.resources
