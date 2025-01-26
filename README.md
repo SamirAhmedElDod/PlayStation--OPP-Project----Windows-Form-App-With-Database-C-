@@ -1,8 +1,7 @@
 # Playstaion OOP Project
 
 
-![Main Project Image](Assets%20For%20Readme/playstation.png)
-![Main Project Image](Assets%20For%20Readme/playstation.png)
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation.png)
 
 
 ## Features
