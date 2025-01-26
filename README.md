@@ -40,7 +40,17 @@ You can view a live demo of the application by clicking the link below:
 
 
 ## Other Project Screenshots
+___
+
 ![Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation2.png)
+___
+
 ![Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation3.png)
+___
+
 ![Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation4.png)
+___
+
 ![Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation5.png)
+___
+
