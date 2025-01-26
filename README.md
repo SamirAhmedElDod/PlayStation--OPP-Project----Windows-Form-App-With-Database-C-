@@ -3,6 +3,13 @@
 
 ![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation.png)
 
+## Technologies Used
+
+- **C#**: Used for developing the application logic.
+- **.NET Framework**: The framework used for building the Windows Forms application.
+- **Object-Oriented Programming (OOP)**: Applied to structure the application in a modular and reusable way.
+- **SQL Server**: Used for database management, specifically for storing and managing games.
+
 
 ## Features
 
