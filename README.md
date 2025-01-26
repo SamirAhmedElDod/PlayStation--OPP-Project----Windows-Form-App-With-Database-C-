@@ -2,6 +2,7 @@
 
 
 ![Main Project Image](Assets%20For%20Readme/playstation.png)
+![Main Project Image](Assets%20For%20Readme/playstation.png)
 
 
 ## Features
