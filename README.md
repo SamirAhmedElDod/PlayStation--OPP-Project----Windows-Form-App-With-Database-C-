@@ -1,4 +1,4 @@
-# Playstaion OOP Project
+# Playstaion Fullstack OOP Project
 
 
 ![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/PlayStation--OPP-Project----Windows-Form-App-With-Database-C-/master/Assets%20For%20Readme/Playstation.png)
@@ -18,6 +18,12 @@
 ### 🕹️ **Add and View Games**
 - A dedicated tab to **add and view PlayStation games**.
 - Each game can be added with its **name** and **image**.
+- The game information is stored and managed using an **SQL Server database**.
+
+### 💾 **SQL Server Database Integration**
+- The project uses **SQL Server** to store and manage **games**. Each game is stored with its **ID**, **name**, and **image**.
+- The database is used only for adding the games.
+
 
 
 ## Current Features
@@ -25,11 +31,15 @@
 - **Manage PlayStation 4 and PlayStation 5 consoles**.
 - **Add time** to track usage and calculate costs.
 - **Add and display games** with name and image.
+- **Data stored in an SQL Server database** for games and usage history.
 
+  
 ## Future Features
 
-- **Database Integration** for permanent data storage.
-- **Option to delete games** after they are added.
+- **Database Integration for Console Management**: Expanding the database functionality to store and manage console usage time and pricing.
+- **Delete Game Feature**: Adding the option to delete games from the database and the application.
+- **Improved UI/UX**: Enhancing the user interface and experience for easier management of consoles and games.
+
 
 ## Live Demo
 
